@@ -46,7 +46,7 @@ How long is your child’s workweek? Thirty hours? Forty? Would it surprise you 
 We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen and write it down for you.💙
 
 ![](https://github.com/AnanyaNegi/VIZEN-TeamCodeoverflow/blob/main/mintt.gif)
-
+![](https://github.com/AnanyaNegi/VIZEN-TeamCodeoverflow/blob/main/lolol.png)
 ## How to get started?
 
 - Open the CMD in windows.
