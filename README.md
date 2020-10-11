@@ -82,7 +82,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Found a bug? Missing a specific feature?
 
-Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/yadvi12/readme-for-codeoverflow/blob/main/CONTRIBUTING.md) to find out about our coding standards.
+Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/AnanyaNegi/Vizen-Codeoverflow/blob/main/CONTRIBUTING.md) to find out about our coding standards.
 
 
 ## License
