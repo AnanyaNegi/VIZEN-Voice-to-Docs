@@ -77,17 +77,6 @@ npm start
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  </div>
 
-* Prerequisite nodejs installed.
-* Clone the forked project in your local system.
-* Run `npm install`
-* Run `npm start`
-* Listen on `port 3000`
-
-## Languages and Frameworks used
-* ReactJS
-* React Libraries
-
-
 ## Community and Contributions
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
 
