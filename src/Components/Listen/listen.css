@@ -1,0 +1,114 @@
+body {
+    background-image: url(../../Assets/g13.jpg);
+}
+
+textarea {
+    background-image: url(../../Assets/ruled.jpg);
+    width: 20%;
+    /* font-family: "Caveat", cursive; */
+    /* font-family: "Liu Jian Mao Cao", cursive; */
+    font-family: "Homemade Apple", cursive;
+    color: rgb(18, 18, 209) !important;
+    line-height: 19px;
+    padding-right: 1%;
+    padding-top: 3.5%;
+}
+
+.gen {
+    right: 1rem;
+    position: absolute;
+}
+
+
+/* team heading  */
+
+.neon-head {
+    font-size: 75px;
+    font-family: 'Monoton', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 80px rgb(174, 34, 230), 0 0 30px rgb(127, 32, 190), 0 0 6px rgb(91, 5, 112);
+    color: rgb(103, 16, 153);
+}
+
+#code {
+    font-size: 60px;
+    margin: 0;
+    padding: 0;
+    margin-top: 2.5rem;
+}
+
+#code span:nth-of-type(2) {
+    animation: lower 10s linear infinite;
+}
+
+#code span:nth-of-type(1) {
+    text-shadow: none;
+    opacity: .4;
+}
+
+@keyframes upper {
+    0%,
+    19.999%,
+    22%,
+    62.999%,
+    64%,
+    64.999%,
+    70%,
+    100% {
+        opacity: .99;
+        text-shadow: 0 0 80px #ffffff, 0 0 30px #008000, 0 0 6px #cacaf0;
+    }
+    20%,
+    21.999%,
+    63%,
+    63.999%,
+    65%,
+    69.999% {
+        opacity: 0.4;
+        text-shadow: none;
+    }
+}
+
+@keyframes lower {
+    0%,
+    12%,
+    18.999%,
+    23%,
+    31.999%,
+    37%,
+    44.999%,
+    46%,
+    49.999%,
+    51%,
+    58.999%,
+    61%,
+    68.999%,
+    71%,
+    85.999%,
+    96%,
+    100% {
+        opacity: 0.99;
+        text-shadow: 0 0 80px rgb(174, 34, 230), 0 0 30px rgb(127, 32, 190), 0 0 6px rgb(91, 5, 112);
+    }
+    19%,
+    22.99%,
+    32%,
+    36.999%,
+    45%,
+    45.999%,
+    50%,
+    50.99%,
+    59%,
+    60.999%,
+    69%,
+    70.999%,
+    86%,
+    95.999% {
+        opacity: 0.4;
+        text-shadow: none;
+    }
+}
+
+
+/* end team heading  */

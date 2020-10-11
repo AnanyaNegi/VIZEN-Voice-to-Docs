@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+.Post {
+    margin: 0 50% 2% 0%;
+    background-image: url("./Assets/ruled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* overflow-wrap: anywhere; */
+    word-wrap: break-word;
+
+    padding: 20px 50px;
+}
+p {
+    padding: 7% 1% 5% 11%;
+    font-size: 5px;
+    line-height: 30px;
+    color: rgb(18, 18, 209) !important;
+}

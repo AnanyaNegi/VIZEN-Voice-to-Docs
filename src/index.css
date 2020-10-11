@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+textarea {
+    padding: 5% 5%;
+    width: 70%;
+    height: 40vh;
+    border-radius: 8px;
+    border: 1px solid royalblue;
+    color: black;
+    margin: 5% 5%;
+    margin-bottom: 2rem;
+}
+
+.Speechdiv button {
+    padding: 1% 3%;
+    border-radius: 8px;
+    /* width: 10%; */
+    margin: 1% auto;
+}
+
+.row-flex button {
+    padding: 1% 3%;
+    border-radius: 8px;
+    /* width: 10%; */
+    margin: 1% 5%;
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-family: 'Gochi Hand', cursive;
+}
+
+.Speechdiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.row-flex {
+    display: flex;
+    margin: 1% auto;
+    margin-top: 0.2rem;
+}
