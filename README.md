@@ -38,11 +38,11 @@ We hear a lot of stuff when students don’t want to do their homework or assign
 
 How long is your child’s workweek? Thirty hours? Forty? Would it surprise you to learn that some elementary school kids have workweeks comparable to adults’ schedules? For most children, mandatory homework assignments push their workweek far beyond the school day and deep into what any other laborers would consider overtime. Is it any wonder that,deprived of the labor protections that we provide adults, our kids are suffering an epidemic of disengagement, anxiety and depression?
 
-** Worry not because our team has tackled this problem and you are gonna love the solution XD **
+*Worry not because our team has tackled this problem and you are gonna love the solution XD*
 
 ## Solution:
 
-We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen to you and write it down for you.💙
+We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen and write it down for you.💙
 
 
 ## How to get started?
