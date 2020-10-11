@@ -34,9 +34,9 @@
 
 ***‘But… it was the weekend.’***
 
-We hear a lot of stuff when students don’t want do their homework or assignments. Our cup runneth over with FBI-proof, puppy-dog eyes, procrastinated-filled homework excuses.  **Homework/Assignments** ends up being done in a hurry, by students fighting fatigue, and poor quality work is produced. Worse still, students who have been up late trying to finish off their homework, then come tired into college/school the next day, and so are less ready to learn. **Homework eats up time that should be used doing other more productive things.**
+We hear a lot of stuff when students don’t want do their homework or assignments.**Homework/Assignments** ends up being done in a hurry, by students fighting fatigue, and poor quality work is produced. Worse still, students who have been up late trying to finish off their homework, then come tired into college/school the next day, and so are less ready to learn. **Homework eats up time that should be used doing other more productive things.**
 
-How long is your child’s workweek? Thirty hours? Forty? Would it surprise you to learn that some elementary school kids have workweeks comparable to adults’ schedules? For most children, mandatory homework assignments push their workweek far beyond the school day and deep into what any other laborers would consider overtime. Even without sports or music or other school-sponsored extracurriculars, the daily homework slog keeps many students on the clock as long as lawyers, teachers, medical residents, truck drivers and other overworked adults. Is it any wonder that,deprived of the labor protections that we provide adults, our kids are suffering an epidemic of disengagement, anxiety and depression?
+How long is your child’s workweek? Thirty hours? Forty? Would it surprise you to learn that some elementary school kids have workweeks comparable to adults’ schedules? For most children, mandatory homework assignments push their workweek far beyond the school day and deep into what any other laborers would consider overtime. Is it any wonder that,deprived of the labor protections that we provide adults, our kids are suffering an epidemic of disengagement, anxiety and depression?
 
 ## Solution
 
