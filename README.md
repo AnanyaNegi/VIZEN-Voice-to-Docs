@@ -55,17 +55,18 @@ We present to you Vizen. A web app which can convert your voice to handwritten d
 git clone [URL]
 ```
 
-- Now run "npm install to install all the node packages.
+- Now run `npm install` to install all the node packages.
 
 ```sh
 npm install
 ```
 
-- And then run "npm start to start the web-UI in development mode. Open ***http://localhost:3000*** to view it in the browser.
+- And then run `npm start` to start the web-UI in development mode. 
 
 ```sh
 npm start
 ```
+- Open ***http://localhost:3000*** to view it in the browser.
 
 ## Languages and Frameworks used:
 
