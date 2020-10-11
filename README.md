@@ -40,14 +40,19 @@ How long is your child’s workweek? Thirty hours? Forty? Would it surprise you 
 
 ## Solution
 
-Our Web-UI is the solution💙. So it will help students to complete their assignments 
+We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen to you and write it down for you.💙
 
 
 ## How to get started?
-
+* Prerequisite nodejs installed.
+* Clone the forked project in your local system.
+* Run `npm install`
+* Run `npm start`
+* Listen on `port 3000`
 
 ## Languages and Frameworks used
-
+* ReactJS
+* React Libraries
 
 ## Community and Contributions
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
