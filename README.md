@@ -2,7 +2,7 @@
 <h1 align="center"><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
 <p align="center">
     <a href="" target="_blank">
-        <img width="18%" height="12%" src="mlh2.png" alt="">
+        <img width="18%" height="10%" src="mlh2.png" alt="">
     </a>
 </p>
 <div align = "center">
