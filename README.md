@@ -34,17 +34,18 @@
 
 ***‘But… it was the weekend.’***
 
-We hear a lot of stuff when students don’t want do their homework or assignments.**Homework/Assignments** ends up being done in a hurry, by students fighting fatigue, and poor quality work is produced. Worse still, students who have been up late trying to finish off their homework, then come tired into college/school the next day, and so are less ready to learn. **Homework eats up time that should be used doing other more productive things.**
+We hear a lot of stuff when students don’t want to do their homework or assignments. **Homework/Assignments** ends up being done in a hurry, by students fighting fatigue, resulting in poor quality work. Worse still, students who have been up late trying to finish off their homework, then come tired into college/school the next day, and so are less ready to learn. **Homework eats up time that should be used doing other more productive things.**
 
 How long is your child’s workweek? Thirty hours? Forty? Would it surprise you to learn that some elementary school kids have workweeks comparable to adults’ schedules? For most children, mandatory homework assignments push their workweek far beyond the school day and deep into what any other laborers would consider overtime. Is it any wonder that,deprived of the labor protections that we provide adults, our kids are suffering an epidemic of disengagement, anxiety and depression?
 
-## Solution
+** Worry not because our team has tackled this problem and you are gonna love the solution XD **
+
+## Solution:
 
 We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen to you and write it down for you.💙
 
 
 ## How to get started?
-
 
 - Open the CMD in windows.
 - Change the current working directory to the location where you want the cloned directory.
@@ -66,7 +67,7 @@ npm install
 npm start
 ```
 
-## Languages and Frameworks used
+## Languages and Frameworks used:
 
  <div>
  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -77,7 +78,7 @@ npm start
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  </div>
 
-## Community and Contributions
+## Community and Contributions:
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
 
 ## Found a bug? Missing a specific feature?
@@ -85,7 +86,7 @@ When contributing to this repository, please first discuss the change you wish t
 Feel free to **file a new issue** with a respective title and description on the repository. If you already found a solution to your problem, **we would love to review your pull request**! Have a look at our [contribution guidelines](https://github.com/AnanyaNegi/Vizen-Codeoverflow/blob/main/CONTRIBUTING.md) to find out about our coding standards.
 
 
-## License
+## License:
 The Project is released under the terms of the [MIT License](LICENSE).
 
 </br>
