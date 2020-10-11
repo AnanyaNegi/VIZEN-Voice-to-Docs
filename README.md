@@ -45,6 +45,25 @@ Our Web-UI is the solution💙. So it will help students to complete their assig
 
 ## How to get started?
 
+- Open the CMD in windows.
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone, and then paste the URL you copied earlier.
+
+```sh
+git clone [URL]
+```
+
+- Now run "npm install to install all the node packages.
+
+```sh
+npm install
+```
+
+- And then run "npm start to start the web-UI in development mode. Open ***http://localhost:3000*** to view it in the browser.
+
+```sh
+npm start
+```
 
 ## Languages and Frameworks used
 
