@@ -1,10 +1,10 @@
 
-<h1 align="center"><p align="left">
+<h1 align="center"><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
+<p align="left">
     <a href="" target="_blank">
-        <img width="80" height="120" src="mlh2.png" alt="">
+        <img width="40%" height="40%" src="mlh2.png" alt="">
     </a>
-</p><b> TEAM CODEOVERFLOW INITIATIVE </b></h1>
-
+</p>
 <div align = "center">
  <img width="40%" height="30%" src="/images/homework-removebg-preview.png" alt="">
 </div>
