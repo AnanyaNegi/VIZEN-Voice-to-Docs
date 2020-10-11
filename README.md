@@ -41,7 +41,7 @@ How long is your child’s workweek? Thirty hours? Forty? Would it surprise you 
 
 *Worry not because our team has tackled this problem and you are gonna love the solution XD*
 
-## Solution:
+## ⚡Solution:
 
 We present to you Vizen. A web app which can convert your voice to handwritten documents.To top it off you can even save the handwritten docs in pdf format.You can also type in it but why do that when you have Vizen to listen and write it down for you.💙
 
@@ -82,7 +82,7 @@ port:3000
  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
  </div>
 
-## [Community and Contributions:](https://github.com/AnanyaNegi/Vizen-Codeoverflow/blob/main/CONTRIBUTING.md)
+## 🔥[Community and Contributions:](https://github.com/AnanyaNegi/Vizen-Codeoverflow/blob/main/CONTRIBUTING.md)
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. Please note we have a code of conduct, follow it in all your interactions with the project.
 
 ## Found a bug? Missing a specific feature?
