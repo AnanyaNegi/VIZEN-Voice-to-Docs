@@ -3,12 +3,12 @@
 <div align = "center">
  <img width="40%" height="30%" src="/images/homework-removebg-preview.png" alt="">
 </div>
-<span>
+<span align="center">
     <a href="" target="_blank">
         <img width="15%" height="15%" src="mlh2.png" alt="">
     </a>
 </span>
-<span>
+<span align="center">
     <a href="" target="_blank">
         <img width="20%" height="20%" src="img.png" alt="">
     </a>
