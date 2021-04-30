@@ -99,10 +99,8 @@ The Project is released under the terms of the [MIT License](LICENSE).
 </br>
 
 <div align="center">
-    <a href="https://allcontributors.org">
-        <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
-    </a>
-</div>
+ <img width="30%" height="50%" src="xd.svg" alt="✨ All Contributors ✨" width="800px" />
+ </div>
 
 </br>
 
